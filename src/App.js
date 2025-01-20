@@ -7,9 +7,10 @@ function App() {
       <header className="App-header">
         
         <p>
-          Rated J Music
+          Rated J Music website
 
         </p>
+        
       </header>
     </div>
   );
