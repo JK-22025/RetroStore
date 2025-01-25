@@ -1,18 +1,18 @@
 //import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-        <p>
-          Rated J Music website
-
-        </p>
+      <Navbar />
+      <Navbar />
+      <Navbar />
+      <Navbar />
+     
     
         
-      </header>
+      
     </div>
   );
 }
